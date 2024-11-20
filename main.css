@@ -1,0 +1,9 @@
+/* .....................
+styling for the hero page 
+.......................*/
+.sect-1 {
+    background-image: url(./images/side-view-smiley-woman-holding-laptop.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
