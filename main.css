@@ -2,8 +2,8 @@
 styling for the hero page 
 .......................*/
 .sect-1 {
-    background-image: url(./images/side-view-smiley-woman-holding-laptop.jpg);
+    background-image: url(./images/hero-bg.jpg);
     background-size: cover;
-    height: 100vh;
+    min-height: 100vh;
     background-position: center;
 }
